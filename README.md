@@ -1,0 +1,1 @@
+A 16x16 grid where hover the cells will colour it in. Clear Grid will clear the grid and ask for new dimensions for the square grid. Creating this to practice DOM manipulation

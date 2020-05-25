@@ -1,0 +1,25 @@
+#clearButton{
+    display: block;
+    margin: auto;
+    height: 7vmin;
+    width: 15vmin;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 25;
+}
+
+#container{
+    display: grid;
+    border: solid;
+    height: 65vmin;
+    width: 65vmin;
+    margin: 0 auto;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+}
+.cellClass{
+    border: solid;
+    width: auto;
+    height: auto;
+    display: block;
+}
